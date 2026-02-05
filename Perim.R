@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 AreaCuadrado<- function(L){
   return(4*L)
 }
@@ -14,4 +14,7 @@ PerimetroCuadrado<- function(L){
 LongitudCircunferencia <- function(R) {
   return(2 * pi * R)
 >>>>>>> Perimetros
+}
+PerimetroRectangulo <- function(b, h) {
+  return(2 * (b + h))
 }
