@@ -17,7 +17,13 @@ LongitudCircunferencia <- function(R) {
 }
 PerimetroRectangulo <- function(b, h) {
   return(2 * (b + h))
+<<<<<<< HEAD
 }
 AreaTrapecio <- function(b, B, h) {
   return(((b + B) * h) / 2)
+PerimetroRectanguloz- function(L,l){
+  return(2*(L+l))
+}
+=======
+>>>>>>> Rama2
 }
