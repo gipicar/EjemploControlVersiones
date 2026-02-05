@@ -1,0 +1,17 @@
+---
+title: "Áreas"
+author: "Carla Giménez Piqueres"
+date: "2026-02-05"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Áreaa círculo 
+
+```{r}
+r<- 0.5 
+Area<- pi*r^2
+```
